@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-# Everything is so great in life
+# Everything is so great in life!
